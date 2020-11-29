@@ -6,7 +6,7 @@
 */
 
 import java.util.*;
-class Watermelon_4A
+public class Watermelon_4A
 {
 	public static void main(String[] args)
 	{

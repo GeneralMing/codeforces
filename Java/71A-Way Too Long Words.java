@@ -6,7 +6,7 @@
 */
 
 import java.util.*;
-class Way_Too_Many_Words_71A
+public class Way_Too_Many_Words_71A
 {
 	public static void main(String[] args)
 	{	
