@@ -1,5 +1,5 @@
 """
-    Solution to Codeforces problem 112A
+    Solution to Codeforces problem 263A
     Copyright (c) GeneralMing. All rights reserved.
 
     https://github.com/GeneralMing/codeforces
