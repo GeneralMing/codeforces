@@ -1,3 +1,10 @@
+/*
+    Solution to Codeforces problem 58A
+    Copyright (c) GeneralMing. All rights reserved.
+
+    https://github.com/GeneralMing/codeforces
+*/
+
 #include<iostream>
 #include<string>
 
